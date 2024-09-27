@@ -3,6 +3,7 @@
 instruction_t instructions[] = {
 {"push", push_wrapper},
 {"pall", pall},
+{"pint", pint}, 
 {NULL, NULL}
 };
 
